@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to top, rgb(12, 181, 248) 0%, rgb(129, 36, 190) 100%);
+}
+
+
+.col-md-7
+{
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.col-md-7 >h1{
+    background-color: rgb(6, 6, 197);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+input , label {
+  margin: 10px;
+  font-size: 20px;
+}
+
+
+#quizdiv
+{
+    font-weight: bold;
+}
+
+.btn
+{
+    margin-top: 10px;
+    margin-left: 0px
+}

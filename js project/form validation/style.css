@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(to top, rgb(12, 181, 248) 0%, rgb(129, 36, 190) 100%);
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+}
+
+.col-md-5{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.form-control{
+    margin-top: 20px;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    margin-top: 30px;
+    margin-right: -200px;
+}
+
+.success{
+    border: 3px solid green;
+}
+
+.error{
+    border: 3px solid red;
+}
+
+small{
+    color: red;
+    font-weight: bold;
+    margin: 5px;
+    margin-left: -50%;
+}
+
+#email_error{
+    margin-left: -38%;
+}
+
+
+#password_error{
+    margin-left: -24px;
+}
+
+
+#cpassword_error{
+    margin-top: -5%;
+    margin-left: -55%;
+}

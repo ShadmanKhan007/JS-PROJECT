@@ -1,0 +1,47 @@
+img {
+    border-radius: 5px !important;
+}
+
+.col-md-3 {
+    margin: 30px !important;
+}
+
+p{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#navbar {
+    background-color: black !important;
+}
+
+#navbar >li {
+    font-size: 30px;
+}
+
+li{
+    color: white;
+    list-style-type: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+#nav-elements{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.footer{
+    background-color: black !important;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer >h3{
+    margin-top: 10px; 
+}

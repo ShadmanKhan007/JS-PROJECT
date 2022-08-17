@@ -1,0 +1,53 @@
+body {
+    background-image: linear-gradient(120deg, rgb(139, 209, 223) 10%, rgb(159, 217, 229) 90%);
+}
+
+.row{
+  margin-top: 180px;
+}
+
+.col-md-5{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.col-md-5>input{
+    margin-top: 10px;
+    display: inline;
+    border: 3px solid !important;
+    width: 85% !important;
+    margin-bottom: 10px;
+}
+
+.btn{
+  background-color: rgb(23, 111, 23);
+  color: white;
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-top: -5px;
+}
+
+.btn:hover{
+    background-color:rgb(18, 161, 18);
+    color: white;
+}
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+    display: inline;
+    width: 70%;
+    margin: 10px;
+}
+
+i{
+    color: red;
+    margin: 10px;
+}
